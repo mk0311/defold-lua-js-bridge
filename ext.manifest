@@ -1,7 +1,0 @@
-name: "LuaJSBridge"
-
-platforms:
-  js-web:
-    defines: [DM_PLATFORM_HTML5]
-    js_libs:  ["web/bridge.jslib"]
-    sources:  ["src/bridge.cpp"]
