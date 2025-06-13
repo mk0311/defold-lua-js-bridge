@@ -1,3 +1,5 @@
+name: "LuaJSBridge"
+
 platforms:
   js-web:
     defines: [DM_PLATFORM_HTML5]
